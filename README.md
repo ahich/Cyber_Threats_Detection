@@ -6,4 +6,4 @@ In this project, we consider the dataset from [Kaggle: BETH Dataset](https://www
 The BETH dataset simulates real-world logs, providing a rich source of information for training and testing a model. The data has already undergone preprocessing, and the target label, `sus_label`, indicating whether an event is malicious (1) or benign (0).
 We here propose to develop a very simple model, with the goal of enhancing cybersecurity measures and protecting organizations from potentially devastating cyber attacks.
 With a simple Deep Learning model, we are able to identify threats with an accuracy, precision and recall of 99%. 
-The code can be consulted in the [Detailed notebook](https://github.com/ahich/House_Prices/blob/main/house_prices.ipynb)
+The code can be consulted in the [Detailed notebook](https://github.com/ahich/Cyber_Threats_Detection/blob/main/cyberthreats_detection.ipynb)
